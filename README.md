@@ -4,8 +4,9 @@ Portfolio de Guillaume Risso, étudiant en BTS SIO
 # Portfolio de Guillaume RISSO
 ## Objectifs:
 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-<img src ="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" width="200" style="float:left;"/>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="200" style="float:right;"/>
+
+<img src ="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" width="200" /> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="125"/> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" /> <img src ="https://ecofemina.fr/wp-content/uploads/2016/03/bootstrap-logo.jpg" width="100" /> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="100" /> <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" />
+
 
 - **NetBeans :** Environnement de développement intégré (IDE) utilisé pour ce projet
 - **HTML :** Langage de description utilisé pour concevoir les pages web

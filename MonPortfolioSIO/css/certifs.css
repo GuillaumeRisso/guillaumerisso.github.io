@@ -14,9 +14,7 @@ body {
     padding-bottom: 15px;
     background: white;
 }
-/****************************************
-* En-tête du CV
-****************************************/
+
 #cv-entete {
     margin-top: -45px;
     width: 100%;
@@ -44,14 +42,5 @@ body {
      font-size: large;
      font-weight: bold;
     color: rgb(226,0,26);
-}
-#cv-intro::after {
-    background: url('images/ligne.png'); /* Dossier "images" est un sous-
-     dossier de "css" (à créer) */
-    width: 100%;
-    height: 3px;
-    margin-top: 15px;
-    content: '';
-    display: block;
 }
 

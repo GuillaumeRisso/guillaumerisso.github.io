@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta name="description" content="Portfolio Guillaume Risso - BTS SIO SISR">
         <meta name="author" content="Guillaume Risso">
-        <link rel="icon" href="../favicon.ico">
+        <link rel="icon" href="../alibaba.ico">
         <link href="../css/newcss.css" rel="stylesheet" type="text/css">
-        <link href="../css/certifs.css" rel="stylesheet" type="text/css">
+        <link href="../css/contact.css" rel="stylesheet" type="text/css">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
               rel="stylesheet">   
         <!-- Bootstrap CSS -->
@@ -54,3 +54,26 @@
                 </div>
             </div>
         </nav>
+        <!--
+Question : 
+https://openclassrooms.com/forum/sujet/formulaire-de-contact-responsive
+        -->
+        <div class="formulaire">
+            <h1>Formulaire de contact</h1>
+            <form action="/action_page.php">
+                <label for="fname">Nom & prénom</label>
+                <input type="text" id="fname" name="firstname" placeholder="Votre nom et prénom">
+
+                <label for="sujet">Sujet</label>
+                <input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
+
+                <label for="emailAddress">Email</label>
+                <input id="emailAddress" type="email" name="email" placeholder="Votre email">
+
+
+                <label for="subject">Message</label>
+                <textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
+
+                <input type="submit" value="Envoyer">
+            </form>
+        </div>
